@@ -1,0 +1,44 @@
+        body{
+            margin: 0px;
+            font-family:sans-serif;
+        }
+        header h1{
+            color:rgba(120, 56, 28, 0.675);
+            font-size: 40px;
+            text-align: center;
+            margin-left: 150px ;
+            margin-right: 150px;
+           
+        }
+        header .subheading{
+            text-align:center;
+            padding:0px 10px;
+            font-size: 18px;
+            margin-left: 210px;
+            margin-right: 250px;
+        }
+        .headpart{
+            padding:40px 30px 30px 30px ;
+        }
+        .imagebox{
+            width: 100%;
+            margin-left: 20px;
+            margin-right: 40px;
+        }
+        .contentbox h2{
+            font-size: 34px;
+            text-align:left;
+            margin-top: 0%;
+        }
+        .contentbox p{
+            color:rgba(47, 46, 45, 0.879);
+        }
+        .container{
+            display: flex;
+            align-items: flex-start; 
+            padding: 60px 80px 60px 60px;
+            background-color: rgb(238, 249, 252)
+        }
+       footer div{
+        margin: 40px 80px 50px 80px;
+       }
